@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoard", "MessageBoard\MessageBoard.csproj", "{A8CA8011-3D3C-4EF3-9AFA-A68ED5398B1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9D74EAA-2F68-403B-8495-027C9D6A49F0}"
+	ProjectSection(SolutionItems) = preProject
+		WebEssentials2015-Settings.json = WebEssentials2015-Settings.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoard.Test", "MessageBoard.Test\MessageBoard.Test.csproj", "{95532BFB-2669-4D39-9BC4-0F9A1570F61E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CA8011-3D3C-4EF3-9AFA-A68ED5398B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CA8011-3D3C-4EF3-9AFA-A68ED5398B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CA8011-3D3C-4EF3-9AFA-A68ED5398B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CA8011-3D3C-4EF3-9AFA-A68ED5398B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95532BFB-2669-4D39-9BC4-0F9A1570F61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95532BFB-2669-4D39-9BC4-0F9A1570F61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95532BFB-2669-4D39-9BC4-0F9A1570F61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95532BFB-2669-4D39-9BC4-0F9A1570F61E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		LessCompiler = a8ca8011-3d3c-4ef3-9afa-a68ed5398b1a
+	EndGlobalSection
+EndGlobal
